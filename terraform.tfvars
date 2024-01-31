@@ -1,0 +1,6 @@
+region            = "eu-central-1"
+vpc_cidr          = "10.0.0.0/16"
+subnet_cidr       = "10.0.1.0/24"
+availability_zone = "eu-central-1a"
+ami               = "ami-09024b009ae9e7adf"
+instance_type     = "t2.micro"
